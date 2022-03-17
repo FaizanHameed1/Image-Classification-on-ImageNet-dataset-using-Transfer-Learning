@@ -1,1 +1,1 @@
-# Immage-Classification-with-ImageNet-dataset-using-Transfer-Learning
+# Image-Classification-with-ImageNet-dataset-using-Transfer-Learning
